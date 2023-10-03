@@ -1,5 +1,4 @@
-{
-    "items":[
+[
         {
             "user":1,
             "name":"Ramesh",
@@ -23,5 +22,4 @@
             "name":"Ganesh",
             "email":"Ganesh123@"
         }
-    ]
-}
+]
