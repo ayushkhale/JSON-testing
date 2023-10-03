@@ -1,50 +1,50 @@
 {
     "items":[
         {
-            "user":1,
+            "id":1,
             "name":"Ramesh",
             "email":"Ramesh123@"
         },
 
         {
-            "user":2,
+            "id":2,
             "name":"Mamesh",
             "email":"Mahesh123@"
         },
 
         {
-            "user":3,
+            "id":3,
             "name":"Suresh",
             "email":"Suresh123@"
         },
 
         {
-            "user":4,
+            "id":4,
             "name":"Ganesh",
             "email":"Ganesh123@"
         }
     ],
         "data":[
         {
-            "user":1,
+            "id":1,
             "name":"Ramesh",
             "email":"Ramesh123@"
         },
 
         {
-            "user":2,
+            "id":2,
             "name":"Mamesh",
             "email":"Mahesh123@"
         },
 
         {
-            "user":3,
+            "id":3,
             "name":"Suresh",
             "email":"Suresh123@"
         },
 
         {
-            "user":4,
+            "id":4,
             "name":"Ganesh",
             "email":"Ganesh123@"
         }
