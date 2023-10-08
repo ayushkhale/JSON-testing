@@ -1,52 +1,19 @@
 {
-    "items":[
-        {
-            "id":1,
-            "name":"Ramesh",
-            "email":"Ramesh123@"
-        },
-
-        {
-            "id":2,
-            "name":"Mamesh",
-            "email":"Mahesh123@"
-        },
-
-        {
-            "id":3,
-            "name":"Suresh",
-            "email":"Suresh123@"
-        },
-
-        {
-            "id":4,
-            "name":"Ganesh",
-            "email":"Ganesh123@"
-        }
-    ],
-        "data":[
-        {
-            "id":1,
-            "name":"Ramesh",
-            "email":"Ramesh123@"
-        },
-
-        {
-            "id":2,
-            "name":"Mamesh",
-            "email":"Mahesh123@"
-        },
-
-        {
-            "id":3,
-            "name":"Suresh",
-            "email":"Suresh123@"
-        },
-
-        {
-            "id":4,
-            "name":"Ganesh",
-            "email":"Ganesh123@"
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice@example.com"
+    }
+  ]
 }
